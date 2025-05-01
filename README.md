@@ -24,7 +24,6 @@ pip install -r requirements.txt
 Create a .env file or export variables manually:
 ```bash
 BOT_TOKEN=your_telegram_token
-OPENAI_API_KEY=your_openai_key
 ```
 ### 5. Run the bot:
 ```bash
